@@ -44,5 +44,3 @@ This Power BI dashboard provides a comprehensive analysis of an e-commerce retai
 
 ## Conclusion
 This project highlights the ability to perform comprehensive sales analysis and customer segmentation, while also showcasing advanced data visualization techniques. The insights gained from this analysis provide valuable recommendations for improving customer engagement, product performance, and regional sales strategies.
-[Vinod Kasi - E-Commerceonlie retail dashboard.pdf](https://github.com/user-attachments/files/17477000/Vinod.Kasi.-.E-Commerceonlie.retail.dashboard.pdf)
-
